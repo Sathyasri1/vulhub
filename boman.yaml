@@ -4,5 +4,5 @@ Auth:
 #SCA:
   #language: php
 Container_Scan:
-  type: Config
-  target: ''
+  type: image
+  target: redis:latest
