@@ -1,0 +1,8 @@
+Auth:
+  project_token: 3df6ae3b-5906-4f55-9982-7774172b274f
+  customer_token: 5b2f4dbd-a873-4042-8441-ff38fef71ed5
+#SCA:
+  #language: php
+Container_Scan:
+  type: Config
+  target: ''
