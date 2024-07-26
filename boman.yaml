@@ -5,5 +5,6 @@ Auth:
   #language: php
 container_scan:
   type: config
+  target: /base/nginx/1/Dockerfile
   #target: redis:latest
-  target: base/nginx/1/Dockerfile
+  
