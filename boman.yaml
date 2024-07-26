@@ -4,6 +4,6 @@ Auth:
 #SCA:
   #language: php
 container_scan:
-  type: image
-  target: redis:latest
-  #target: base/nginx/1/Dockerfile
+  type: config
+  #target: redis:latest
+  target: base/nginx/1/Dockerfile
