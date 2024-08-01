@@ -3,8 +3,9 @@ Auth:
   customer_token: 5b2f4dbd-a873-4042-8441-ff38fef71ed5
 #SCA:
   #language: php
-container_scan:
-  type: config
+#container_scan:
+  #type: config
   #target: /base/nginx/1/Dockerfile
   #target: redis:latest
+SBOM: true
   
